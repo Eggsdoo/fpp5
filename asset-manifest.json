@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fpp5/static/css/main.d697efd9.css",
+    "main.js": "/fpp5/static/js/main.30e27abc.js",
+    "static/js/453.8d9e04fc.chunk.js": "/fpp5/static/js/453.8d9e04fc.chunk.js",
+    "static/media/10.png": "/fpp5/static/media/10.4efcf8e485ca2fc9a12d.png",
+    "static/media/24.png": "/fpp5/static/media/24.c5d46bf5ee531f05943b.png",
+    "static/media/9.png": "/fpp5/static/media/9.bbda5ddf959011d884e9.png",
+    "static/media/zain-k.png": "/fpp5/static/media/zain-k.2b680e97bfb48f9fe393.png",
+    "static/media/29.png": "/fpp5/static/media/29.1d8bb888b2dfcb1f63b8.png",
+    "static/media/28.png": "/fpp5/static/media/28.d2797cbd23a5a361a321.png",
+    "static/media/tuppc-bg.jpg": "/fpp5/static/media/tuppc-bg.033c74cfd1d4c4c0949a.jpg",
+    "static/media/TUPPC-Campaign.pdf": "/fpp5/static/media/TUPPC-Campaign.cf80fc276da5b35e3be4.pdf",
+    "static/media/TUPPC-logo.png": "/fpp5/static/media/TUPPC-logo.754d8e080a55245c0f73.png",
+    "index.html": "/fpp5/index.html",
+    "main.d697efd9.css.map": "/fpp5/static/css/main.d697efd9.css.map",
+    "main.30e27abc.js.map": "/fpp5/static/js/main.30e27abc.js.map",
+    "453.8d9e04fc.chunk.js.map": "/fpp5/static/js/453.8d9e04fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d697efd9.css",
+    "static/js/main.30e27abc.js"
+  ]
+}
